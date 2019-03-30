@@ -1,0 +1,2 @@
+# redux-loading-rendering
+loadingによるコンポーネントrendering処理のredux周りテスト
